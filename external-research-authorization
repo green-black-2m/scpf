@@ -1,0 +1,18 @@
+[
+    {
+        "UserId": 12345678,
+        "Rank": "Senior Researcher"
+    },
+    {
+        "UserId": 87654321,
+        "Rank": "External Researcher"
+    },
+    {
+        "UserId": 13579246,
+        "Rank": "Research Assistant"
+    },
+    {
+        "UserId": 24681357,
+        "Rank": "Lead Researcher"
+    }
+]
